@@ -1,2 +1,2 @@
-#riddle
+
 Solve the riddle
